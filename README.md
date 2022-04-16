@@ -1,2 +1,2 @@
-# mnanri_ac
+# mnanri-ac
 for atcoder
